@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-😄 I’m currently learning about Front-end in Developer course of the Ford <Enter> program, technology enthusiast, migrating from the health area.
+- 😄 I’m currently learning about Front-end in Developer course of the Ford <Enter> program
+- ⚡ Technology enthusiast
+- ✨ Migrating from the health area
 
 <!--
 **luanatiuma/luanatiuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
