@@ -5,6 +5,7 @@
 - 🩸 Migrating from the health area
 - 🐚 Girl from Rio de Janeiro living in São Paulo
 
+![minhoca](https://raw.githubusercontent.com/rick-png/rick-png/output/github-contribution-grid-snake.svg)
 <!--
 **luanatiuma/luanatiuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
